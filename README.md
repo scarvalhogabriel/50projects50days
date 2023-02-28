@@ -5,7 +5,7 @@
 | #  | Project | Link |
 | -- | ------- | ---- |
 | 01 | [Expanding Cards](https://github.com/scarvalhogabriel/50projects50days/tree/main/01.%20Expanding-cards) | [Link](https://dainty-jalebi-053301.netlify.app/)
-| 02 |         
+| 02 | [Progress Steps](https://github.com/scarvalhogabriel/50projects50days/tree/main/02.%20Progress-steps) | [Link](https://idyllic-axolotl-33aaef.netlify.app/)     
 | 03 | 
 | 04 | 
 | 05 | 
