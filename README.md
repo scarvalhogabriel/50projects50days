@@ -8,7 +8,7 @@
 | 02 | [Progress Steps](https://github.com/scarvalhogabriel/50projects50days/tree/main/02.%20Progress-steps) | [Link](https://idyllic-axolotl-33aaef.netlify.app/)     
 | 03 | [Rotating Navigation](https://github.com/scarvalhogabriel/50projects50days/tree/main/03.%20Rotating-navigation) | [Link](https://warm-marshmallow-db6300.netlify.app/)
 | 04 | [Hidden Search Widget](https://github.com/scarvalhogabriel/50projects50days/tree/main/04.%20Hidden-search-widget) | [Link](https://glistening-figolla-884672.netlify.app/)
-| 05 | 
+| 05 | [Blurry Loading](https://github.com/scarvalhogabriel/50projects50days/tree/main/05.%20Blurry-loading) | [Link](https://joyful-lily-61ee68.netlify.app/)
 | 06 | 
 | 07 | 
 | 08 | 
