@@ -10,7 +10,7 @@
 | 04 | [Hidden Search Widget](https://github.com/scarvalhogabriel/50projects50days/tree/main/04.%20Hidden-search-widget) | [Link](https://glistening-figolla-884672.netlify.app/)
 | 05 | [Blurry Loading](https://github.com/scarvalhogabriel/50projects50days/tree/main/05.%20Blurry-loading) | [Link](https://joyful-lily-61ee68.netlify.app/)
 | 06 | [Scroll Animation](https://github.com/scarvalhogabriel/50projects50days/tree/main/06.%20Scroll-animation) | [Link](https://tubular-dasik-900ade.netlify.app/)
-| 07 | 
+| 07 | [Split Landing Page](https://github.com/scarvalhogabriel/50projects50days/tree/main/07.%20Split-landing-page) | [Link](https://soft-manatee-75e4bb.netlify.app/)
 | 08 | 
 | 09 | 
 | 10 | 
