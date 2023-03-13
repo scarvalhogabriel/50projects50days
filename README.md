@@ -12,7 +12,7 @@
 | 06 | [Scroll Animation](https://github.com/scarvalhogabriel/50projects50days/tree/main/06.%20Scroll-animation) | [Link](https://tubular-dasik-900ade.netlify.app/)
 | 07 | [Split Landing Page](https://github.com/scarvalhogabriel/50projects50days/tree/main/07.%20Split-landing-page) | [Link](https://soft-manatee-75e4bb.netlify.app/)
 | 08 | [Form Wave Animation](https://github.com/scarvalhogabriel/50projects50days/tree/main/08.%20Form-wave-animation) | [Link](https://startling-bonbon-8d48a9.netlify.app/)
-| 09 | 
+| 09 | [Sound Bar](https://github.com/scarvalhogabriel/50projects50days/tree/main/09.%20Sound-board) | [Link](https://celadon-marzipan-0f33dc.netlify.app/)
 | 10 | 
 | 11 | 
 | 12 | 
