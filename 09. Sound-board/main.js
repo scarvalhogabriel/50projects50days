@@ -1,4 +1,16 @@
-const sounds = ["applause", "boo", "gasp", "tada", "victory", "wrong"];
+const sounds = [];
+
+const audios = document.querySelectorAll("audio");
+
+function getId() {
+  audios.forEach((audio) => {
+    const id = audio.id;
+
+    sounds.push(id);
+  });
+}
+
+getId();
 
 sounds.forEach((sound) => {
   const btn = document.createElement("button");
